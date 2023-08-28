@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <scale
+         android:startOffset="0"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="300"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="600"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="900"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="1200"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="1500"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="1800"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="2100"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="2400"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="2700"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="3000"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="3300"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="3600"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="3900"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="4200"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="4500"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="4800"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="5100"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="5400"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="5700"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="6000"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="6300"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <scale
+         android:startOffset="6600"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="6900"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="7200"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="7500"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="7800"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="8100"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="8400"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="8700"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="9000"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="9300"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="9600"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="9900"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="10200"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="10500"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+     <scale
+         android:startOffset="10800"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="0.1"
+         android:toYScale="0.1"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+     <scale
+         android:startOffset="11100"
+         android:duration="300"
+         android:fromXScale="1"
+         android:fromYScale="1"
+         android:toXScale="10"
+         android:toYScale="10"
+         android:pivotX="50%"
+         android:pivotY="50%"
+         />
+
+</set>
